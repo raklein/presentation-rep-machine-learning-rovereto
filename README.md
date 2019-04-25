@@ -1,13 +1,9 @@
 # presentation-rep-machine-learning-rovereto
 
-Talk I gave in Rovereto, Italy discussing big data, open science, machine learning, and paths forward in the replication crisis.
+(March 15, 2019, in Rovereto, Italy). Talk discussing big data, open science, machine learning, and paths forward in the replication crisis.
 
 # To use:  
-- For viewing: See the final presentation in .pdf format script_cropped.pdf.
-- For editing/reuse: 
-1. Click clone or download (green button upper right), download the full project as .zip or clone the repository.
-2. Unzip to a local directory, then open the .rproj file in RStudio.
-3. From RStudio, open the r script file. Install required packages and knit (requires internet connection)
+- For viewing: See the final presentation in .pdf format.
 
 # Title: Welcome to the era of big psychology
 # Abstract:
